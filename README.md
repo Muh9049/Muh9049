@@ -40,7 +40,7 @@ I am a Bot Developer for AedusMC, an upcoming Minecraft server with a unique gam
 
 **--> Plenty more communities!**
 
-## Where am I looking to work right now?
+## Where do I work?
 
 I currently work Harvey's as a part time job. I also develop and work on bots like StormBeatz whenever I'm free.
 
