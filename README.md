@@ -46,6 +46,6 @@ I currently work Harvey's as a part time job. I also develop and work on bots li
 
 ##  
 
-[![Muh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=muhimur9049&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight)](https://muhimur.me/)
+[![Muh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=muh9049&count_private=true&hide=stars,contribs,prs,issues&show_icons=true&theme=tokyonight)](https://muhimur.me/)
 
 [![Muh's GitHub Statistics](https://github-readme-streak-stats.herokuapp.com/?user=muh9049&theme=algolia)](https://muhimur.me/)
